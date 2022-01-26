@@ -1,0 +1,5 @@
+﻿{
+  "DEV": {
+    "BaseUrl": "https://rb-shoe-store.herokuapp.com/"
+  }
+}
