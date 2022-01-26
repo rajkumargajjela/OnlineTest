@@ -25,11 +25,7 @@
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
-        "sources": {
-          "http://nuget.healthequity.com/development/NuGet": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.wageworks.com/nuget": {},
-          "https://pkgs.dev.azure.com/HQY01/_packaging/hqy-everest/nuget/v3/index.json": {}
+        "sources": {         
         },
         "frameworks": {
           "netcoreapp3.1": {
